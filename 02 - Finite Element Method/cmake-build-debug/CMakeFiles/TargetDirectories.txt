@@ -1,0 +1,3 @@
+C:/Users/rober/OneDrive/Escritorio/proyecto2-simu/02 - Finite Element Method/cmake-build-debug/CMakeFiles/02___Finite_Element_Method.dir
+C:/Users/rober/OneDrive/Escritorio/proyecto2-simu/02 - Finite Element Method/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rober/OneDrive/Escritorio/proyecto2-simu/02 - Finite Element Method/cmake-build-debug/CMakeFiles/rebuild_cache.dir
